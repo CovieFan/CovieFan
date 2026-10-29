@@ -37,7 +37,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="github-metrics.svg" alt="CovieFan's GitHub statistics, languages, annual contribution calendar, and isometric calendar" width="700">
+  <img src="github-metrics.svg?v=2" alt="CovieFan's GitHub statistics, languages, annual contribution calendar, and isometric calendar" width="700">
 </p>
 
 <p align="center">
