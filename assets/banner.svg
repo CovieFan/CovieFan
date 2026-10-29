@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">CovieFan — Embedded Systems and Robotics</title>
-  <desc id="desc">深蓝色电路风格横幅，青色芯片与反馈回路，写有 CovieFan 和 Build. Measure. Learn.</desc>
+  <desc id="desc">A navy circuit-board banner with a cyan processor and feedback traces, featuring CovieFan and Build. Measure. Learn.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1">
       <stop stop-color="#07111f"/>
